@@ -94,6 +94,10 @@ body {
 	font-family: HelveticaNeueBold;
 }
 
+.custom_btn:hover {
+	color: #000;
+}
+
 
 /*header menu end*/
 /*header end*/
