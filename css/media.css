@@ -17,6 +17,14 @@
 	.top_content ul li i {
 	    font-size: 16px;
 	}
+	
+	.mobile {
+		padding: 8px !important;
+	}
+	
+	.envelope {
+		padding: 8px !important;
+	}
 	/*header menu start*/
 	.custom_btn {
 	    padding: 5px 10px !important;
