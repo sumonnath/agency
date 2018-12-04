@@ -148,6 +148,10 @@
 	    padding: 0;
 	}
 	/*header menu start*/
+	.header_menu {
+	    padding: 10px 0;
+	}
+
 	.custom_navbar {
 		padding-left: 0;
 		padding-right: 0;

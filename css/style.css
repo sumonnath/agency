@@ -37,6 +37,7 @@ body {
 
 .top_content ul li i {
 	font-size: 20px;
+	cursor: pointer;
 }
 
 .top_content ul li span {
@@ -277,6 +278,7 @@ body {
 	display: block;
 	width: 100%;
 	height: auto;
+	cursor: pointer;
 }
 
 .work_hover {
@@ -293,7 +295,8 @@ body {
 	transform: scale(0);
 	-webkit-transition: .3s ease;
 	transition: .4s ease;
-	text-align: center;	  
+	text-align: center;
+	cursor: pointer; 
 }
 
 .work_content:hover .work_hover {
@@ -343,6 +346,7 @@ body {
 	border: 2px solid #fff;
 	font-size: 30px;
 	line-height: 1.5;
+	cursor: pointer;
 }
 
 .contact_form {
