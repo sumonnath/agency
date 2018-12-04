@@ -16,11 +16,11 @@
 	    font-size: 16px;
 	}
 
-	.mobile {
+	.top_content ul li i > .mobile {
 	    padding: 8px !important;
 	}
 
-	.envelope {
+	.top_content ul li i > .envelope {
 	    padding: 8px !important;
 	}
 	/*header menu start*/
