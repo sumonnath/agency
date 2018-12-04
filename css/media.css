@@ -143,6 +143,11 @@
 	.subscribe_btn button {
 	    margin-top: 10px;
 	}
+
+	/*footer start*/
+	.footer_content p {
+	    font-size: 14px;
+	}
 	
 }
 
