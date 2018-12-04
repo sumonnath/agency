@@ -16,13 +16,15 @@
 	    font-size: 16px;
 	}
 
-	.top_content ul li i > .mobile {
-	    padding: 8px !important;
+	
+	.mobile {
+		padding: 8px !important;
+	}
+	
+	.envelope {
+		padding: 8px !important;
 	}
 
-	.top_content ul li i > .envelope {
-	    padding: 8px !important;
-	}
 	/*header menu start*/
 	.custom_btn {
 	    padding: 5px 10px !important;
@@ -153,8 +155,7 @@
 	/*footer start*/
 	.footer_content p {
 	    font-size: 14px;
-	}
-	
+	}	
 }
 
 /*Small devices (landscape phones, 576px and up)*/
