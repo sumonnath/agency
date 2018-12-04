@@ -140,6 +140,19 @@
 		padding-right: 0;
 	}
 
+	.custom_nav ul {
+	    float: right;
+	    text-align: right;
+	}
+
+	.custom_nav ul li {
+		margin-right: 0;
+	}
+
+	.custom_nav ul li button {
+	    margin-top: 10px;
+	}
+
 	/*banner start*/
 	.banner {
 	    padding: 100px 0;
@@ -252,6 +265,19 @@
 	/*header start*/
 	.header_menu {
 	    padding: 10px 0;
+	}
+
+	.custom_nav ul {
+	    float: right;
+	    text-align: right;
+	}
+
+	.custom_nav ul li {
+		margin-right: 0;
+	}
+
+	.custom_nav ul li button {
+	    margin-top: 10px;
 	}
 
 	/*about us start*/

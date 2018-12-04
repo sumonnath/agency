@@ -58,7 +58,8 @@ body {
 }
 
 .custom_nav {}
-.custom_nav ul {}
+.custom_nav ul {
+}
 .custom_nav ul li {
 	margin-right: 15px;
 }
