@@ -122,6 +122,11 @@
 	    padding: 10px 0; 
 	}
 
+	.contact_form > button {
+	    width: 40px;
+	    height: 40px;
+	}
+
 	.submit_btn button {
 		margin-top: 5px;
 	}
@@ -439,6 +444,10 @@
 	/*contact start*/
 	.contact {
 	    padding: 60px 0;
+	}
+
+	.form_title p {
+	    font-size: 16px;
 	}
 
 	/*newsletter start*/
