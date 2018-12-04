@@ -1,4 +1,4 @@
-/*font-family: 'Open Sans', sans-serif;*/
+
 
 @font-face {
 	src: url(../fonts/HelveticaNeueBold.ttf);
@@ -54,12 +54,9 @@ body {
 /*header menu start*/
 .header_menu {
 	background-color: #fff;
-	padding: 30px 0;
+	padding: 20px 0;
 }
 
-.custom_nav {}
-.custom_nav ul {
-}
 .custom_nav ul li {
 	margin-right: 15px;
 }
@@ -69,7 +66,7 @@ body {
 	color: #424242;
 	font-weight: bold;
 	font-size: 15px;
-	transition: .3s;
+	transition: .9s;
 }
 .custom_nav ul .active a {
 	color: #dd2a24 !important;
@@ -412,6 +409,7 @@ body {
 	border-radius: 5px;
 	margin-right: 10px;
 	line-height: 1.6;
+	transition: 0.3s;
 
 }
 
@@ -452,6 +450,12 @@ body {
     color: #fff;
     font-size: 17px;
     margin-top: 30px;
+    transition: 0.3s;
+}
+
+.subscribe_btn button:hover {
+	background-color: #1287bf;
+	border: 2px solid #1287bf;
 }
 /*newsletter end*/
 
