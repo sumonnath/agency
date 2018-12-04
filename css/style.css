@@ -40,6 +40,14 @@ body {
 	cursor: pointer;
 }
 
+.mobile {
+	padding: 8px !important;
+}
+
+.envelope {
+	padding: 8px !important;
+}
+
 .top_content ul li span {
 	font-size: 15px;
 }
